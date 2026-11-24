@@ -34,7 +34,7 @@ Both passwords were cracked almost instantly because they are common, dictionary
 - Documenting a cracking exercise clearly, with evidence and risk analysis
 
  ## EVIDENCE
-[View the full Screenshots (Screenshots Evidence)](WK3%20-%20pm%201&2)
+[View the full (Screenshots Evidence)](WK3%20-%20pm1&2)
 
 ## 👤Author
 Clementina Oluchi A.
