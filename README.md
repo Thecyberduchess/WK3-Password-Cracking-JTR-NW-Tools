@@ -33,6 +33,17 @@ Both passwords were cracked almost instantly because they are common, dictionary
 - Understanding why weak, common passwords are cracked almost instantly
 - Documenting a cracking exercise clearly, with evidence and risk analysis
 
+  ## Evidences collected
+- 01-PM1-john-menu-search.png — John the Ripper found in Kali's menu
+- 02-PM1-2john-scripts-list.png — confirming pdf2john exists
+- 03-PM1-file-copied-to-kali.png — PDF copied into ~/week3/jtr
+- 04-PM1-pdf2john-hash-extracted.png — hash extraction command + output
+- 05-PM1-john-cracked-good-luck.png — john hash1.txt result
+- 06-PM1-pdf-opened-congratulations.png — PDF opened with good-luck
+- 07-PM2-password-cracker-access-denied.png — the wordlist error
+08-PM2-password-cracker-success-password1.png — cracked with password1
+09-PM2-pdf-opened-flag-captured.png — flag captured
+
 ## 👤Author
 Clementina Oluchi A.
 Cybersecurity Personnel || Aspiring Penetration Tester
