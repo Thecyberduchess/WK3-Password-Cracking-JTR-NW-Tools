@@ -24,8 +24,7 @@ This repository contains my Week 3 report for the Networkwalks Cybersecurity Int
 Both passwords were cracked almost instantly because they are common, dictionary-based words. The full risk analysis and recommendations are in the report below.
 
 ## 📄 Full Report
-[- [View the full report (PDF)](W3-PM-FINAL-Password-Cracking-Report.pdf)
-](https://github.com/Thecyberduchess/K3-Password-Cracking-JTR-NW-Tools/blob/main/WK3%20-%20PASSWORD%20CRACKING.pdf)
+[- [View the full report (PDF)](WK3%20-%20PASSWORD%20CRACKING.pdf)
 ## 🎯 Key Learning Outcomes
 - Extracting a crackable hash from an encrypted PDF
 - Using John the Ripper to run a dictionary attack
