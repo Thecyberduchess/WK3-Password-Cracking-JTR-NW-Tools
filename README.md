@@ -24,7 +24,8 @@ This repository contains my Week 3 report for the Networkwalks Cybersecurity Int
 Both passwords were cracked almost instantly because they are common, dictionary-based words. The full risk analysis and recommendations are in the report below.
 
 ## 📄 Full Report
-[- [View the full report (PDF)](WK3%20-%20PASSWORD%20CRACKING.pdf)
+[View the full report (PDF)](WK3%20-%20PASSWORD%20CRACKING.pdf)
+
 ## 🎯 Key Learning Outcomes
 - Extracting a crackable hash from an encrypted PDF
 - Using John the Ripper to run a dictionary attack
@@ -32,7 +33,9 @@ Both passwords were cracked almost instantly because they are common, dictionary
 - Understanding why weak, common passwords are cracked almost instantly
 - Documenting a cracking exercise clearly, with evidence and risk analysis
 
- 
+ ## EVIDENCE
+ <img width="1920" height="1008" alt="Craking with the wrong pdf" src="https://github.com/user-attachments/assets/8d013bf3-483b-4bd0-806e-a5f47f387cbd" />
+
 
 ## 👤Author
 Clementina Oluchi A.
