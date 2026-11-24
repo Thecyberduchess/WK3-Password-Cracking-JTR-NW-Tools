@@ -34,8 +34,7 @@ Both passwords were cracked almost instantly because they are common, dictionary
 - Documenting a cracking exercise clearly, with evidence and risk analysis
 
  ## EVIDENCE
- <img width="1920" height="1008" alt="Craking with the wrong pdf" src="https://github.com/user-attachments/assets/8d013bf3-483b-4bd0-806e-a5f47f387cbd" />
-
+[View the full Screenshots (Screenshots Evidence)](WK3%20-%20pm%201&2)
 
 ## 👤Author
 Clementina Oluchi A.
